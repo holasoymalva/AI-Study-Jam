@@ -35,27 +35,27 @@ pip install -r requirements.txt
 - [Preparación del entorno de trabajo](./01-module/03_entorno_trabajo.md)
 
 ### Módulo 2: Manipulación de Datos con Python
-- [Introducción a NumPy](./modulo2/01_numpy_intro.ipynb)
-- [Manejo de datos con Pandas](./modulo2/02_pandas_basico.ipynb)
-- [Visualización de datos con Matplotlib y Seaborn](./modulo2/03_visualizacion.ipynb)
+- [Introducción a NumPy](./02-module/01_numpy_intro.md)
+- [Manejo de datos con Pandas](./02-module/02_pandas_basico.md)
+- [Visualización de datos con Matplotlib y Seaborn](./02-module/03_visualizacion.md)
 
-### Módulo 3: Aprendizaje Supervisado
-- [Regresión Lineal](./modulo3/01_regresion_lineal.ipynb)
+### Módulo 3: Aprendizaje Supervisado (En desarrollo)
+- [Regresión Lineal]
 - [Regresión Logística](./modulo3/02_regresion_logistica.ipynb)
 - [Árboles de Decisión](./modulo3/03_arboles_decision.ipynb)
 - [Evaluación de Modelos](./modulo3/04_evaluacion_modelos.ipynb)
 
-### Módulo 4: Aprendizaje No Supervisado
+### Módulo 4: Aprendizaje No Supervisado (En desarrollo)
 - [Clustering con K-Means](./modulo4/01_kmeans.ipynb)
 - [PCA: Análisis de Componentes Principales](./modulo4/02_pca.ipynb)
 - [Casos prácticos](./modulo4/03_casos_practicos.ipynb)
 
-### Módulo 5: Introducción a las Redes Neuronales
+### Módulo 5: Introducción a las Redes Neuronales (En desarrollo)
 - [Fundamentos de Redes Neuronales](./modulo5/01_fundamentos_nn.ipynb)
 - [Implementación con TensorFlow/Keras](./modulo5/02_tensorflow_keras.ipynb)
 - [Proyecto: Clasificación de imágenes](./modulo5/03_proyecto_clasificacion.ipynb)
 
-## 🧪 Proyectos Prácticos
+## 🧪 Proyectos Prácticos (En desarrollo)
 
 En la carpeta [`/proyectos`](./proyectos) encontrarás una serie de proyectos prácticos para aplicar lo aprendido:
 
