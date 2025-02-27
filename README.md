@@ -30,9 +30,9 @@ pip install -r requirements.txt
 ## 📚 Contenido del Study Jam
 
 ### Módulo 1: Fundamentos de IA
-- [Introducción a la Inteligencia Artificial](./modulo1/01_introduccion.md)
-- [Tipos de Aprendizaje Automático](./modulo1/02_tipos_aprendizaje.md)
-- [Preparación del entorno de trabajo](./modulo1/03_entorno_trabajo.ipynb)
+- [Introducción a la Inteligencia Artificial](./01-module/01_introduccion.md)
+- [Tipos de Aprendizaje Automático](./01-module/02_tipos_aprendizaje.md)
+- [Preparación del entorno de trabajo](./01-module/03_entorno_trabajo.md)
 
 ### Módulo 2: Manipulación de Datos con Python
 - [Introducción a NumPy](./modulo2/01_numpy_intro.ipynb)
