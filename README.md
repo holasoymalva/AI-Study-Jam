@@ -1,3 +1,5 @@
+<img src="./studyjam.png" alt="readme-title" width="100%"/>
+
 # AI Study Jam: Introducción a la Inteligencia Artificial con Python
 
 ¡Bienvenidos al repositorio oficial del **AI Study Jam**! Este espacio contiene todo el material didáctico necesario para iniciarte en el fascinante mundo de la Inteligencia Artificial utilizando Python.
